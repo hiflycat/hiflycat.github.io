@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.starsfox.com/posts/6f066d48.html</loc>
+    
+    <lastmod>2024-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.starsfox.com/posts/aed030e0.html</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -40,22 +49,29 @@
 
   <url>
     <loc>https://www.starsfox.com/</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://www.starsfox.com/tags/terraform/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.starsfox.com/tags/kafka/</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.starsfox.com/tags/%E7%9B%91%E6%8E%A7/</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -64,7 +80,7 @@
   
   <url>
     <loc>https://www.starsfox.com/categories/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
